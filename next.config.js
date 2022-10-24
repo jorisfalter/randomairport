@@ -4,4 +4,11 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = nextConfig
+// next.config.js
+module.exports = {
+  images: {
+    domains: ['cdn.jetphotos.com'],
+  }, nextConfig
+}
+
+// module.exports = nextConfig
