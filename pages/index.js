@@ -24,6 +24,7 @@ export default function Home() {
 
         <div>
           <Image
+              // to continue here, how to make it look nice?
               priority
               src="https://cdn.jetphotos.com/full/6/56492_1590156696.jpg"
               // className={utilStyles.borderCircle}
